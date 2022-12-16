@@ -1,1 +1,3 @@
 ![Zyian's github stats](https://github-readme-stats.vercel.app/api?username=zyian&show_icons=true&count_private=true&theme=vue)
+
+<a rel="me" href="https://discuss.systems/@zyian">Mastodon</a>
